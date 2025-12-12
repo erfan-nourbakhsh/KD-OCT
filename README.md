@@ -598,7 +598,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, suggestions, or collaborations:
 
-- 📧 Email: [erfan.nourbakhsh@my.utsa.edu]
+- 📧 Email: [erfannourbakhsh2001@gmail.com]
 - 🐛 Issues: [GitHub Issues](https://github.com/erfan-nourbakhsh/KD-OCT/issues)
 - 💬 Discussions: [GitHub Discussions](https://github.com/erfan-nourbakhsh/KD-OCT/discussions)
 
