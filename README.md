@@ -556,12 +556,11 @@ KD-OCT/
 If you use KD-OCT in your research, please cite:
 
 ```bibtex
-@article{kdoct2024,
+@article{nourbakhsh2025kd-oct,
   title={KD-OCT: Efficient Knowledge Distillation for Clinical-Grade Retinal OCT Classification},
-  author={Erfan Nourbakhsh},
-  journal={[Journal Name]},
-  year={2025},
-  note={Available at: https://github.com/erfan-nourbakhsh/KD-OCT}
+  author={Nourbakhsh, Erfan and Sanjari, Nasrin and Nourbakhsh, Ali},
+  journal={arXiv preprint arXiv:2512.09069},
+  year={2025}
 }
 ```
 
